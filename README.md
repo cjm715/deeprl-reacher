@@ -13,4 +13,12 @@ The observation space consists of 33 variables corresponding to position, rotati
 
 ## Getting Started
 
+1. Make sure you have the following python library dependencies: 
+    - pytorch
+    - numpy
+    - unityagents
+    - matplotlib
+
+2. Clone this repository with the command `git clone https://github.com/udacity/deep-reinforcement-learning.git` or simply download as a zip folder by using the green button labeled 'clone or download' on this page. Note that there is no need to separately download the Unity environment. The necessary files are included in the repo.
+
 ## Instructions
