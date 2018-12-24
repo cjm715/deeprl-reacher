@@ -18,7 +18,10 @@ The observation space consists of 33 variables corresponding to position, rotati
     - numpy
     - unityagents
     - matplotlib
+    - jupyter notebook
 
-2. Clone this repository with the command `git clone https://github.com/udacity/deep-reinforcement-learning.git` or simply download as a zip folder by using the green button labeled 'clone or download' on this page. Note that there is no need to separately download the Unity environment. The necessary files are included in the repo.
+2. Clone this repository with the command `git clone https://github.com/cjm715/Udacity-drln-p2.git` or simply download as a zip folder by using the green button labeled 'clone or download' on this page. Note that there is no need to separately download the Unity environment. The necessary files are included in the repo.
 
 ## Instructions
+
+Run jupyter notebook and open `project2.ipynb`.
