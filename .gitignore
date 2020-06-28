@@ -1,2 +1,3 @@
-.direnv
-.envrc
+.ipynb_checkpoints
+__pycache__
+rewards.png
