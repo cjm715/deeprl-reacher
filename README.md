@@ -1,4 +1,4 @@
-# Project 2
+# Deep deterministic policy gradient for solving Unity's reacher environment
 
 <img src="trained_agent.gif" width="400">
 
