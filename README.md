@@ -1,5 +1,6 @@
 # Project 2
 
+<img src="trained_agent.gif" width="400">
 
 This project was done as part of the Udacity Deep Reinforcement Nanodegree. Some of the text in this README is adapted from the original [Udacity Deep Reinforcement Learning Nanodegree repo](https://github.com/udacity/deep-reinforcement-learning). Read `Report.pdf` for more information.
 
